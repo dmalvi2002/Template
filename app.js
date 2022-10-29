@@ -33,7 +33,7 @@ Vue.createApp({
         };
       } else {
         return {
-          ["bg-gray-700"]: true,
+          ["bg-gray-700"]: false,
         };
       }
     },
